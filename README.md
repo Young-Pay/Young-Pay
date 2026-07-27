@@ -66,6 +66,7 @@
 - 🌐 **Website**: [youngpay.vercel.app](https://youngpay.vercel.app/)
 - 📧 **Email**: [pnahimi@gmail.com](mailto:pnahimi@gmail.com)
 - 🐙 **GitHub**: [@Young-Pay](https://github.com/Young-Pay)
+- 💼 **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/paiman-nahimi-97984141b/)
 
 ---
 
