@@ -1,75 +1,72 @@
+# Hi there, I'm Paiman (Young-Pay) 👋
+
 <div align="center">
 
-# paiman
-
-**Software Engineer & Security Specialist**
-`Internal Tooling` · `Fullstack Development` · `Reverse Engineering` · `Application Security`
-
-[![Website](https://youngpay.vercel.app)](#)
-[![GitHub](https://github.com/Young-Pay)](#)
-[![LinkedIn](https://www.linkedin.com/in/paiman-nahimi-97984141b/)](#)
+[![Website](https://img.shields.io/badge/Portfolio-youngpay.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youngpay.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Young--Pay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Young-Pay)
+[![Email](https://img.shields.io/badge/Email-pnahimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnahimi@gmail.com)
 
 </div>
 
 ---
 
-### `whoami`
+### 🚀 About Me
 
-Software Engineer and Security Specialist experienced in building efficient internal tools and ensuring application security. Whether it's custom business software, workflow automation, or analysing and hardening existing systems, I can help.
-
-I write clean, reliable code for desktop applications, automation scripts, and backend systems — and I dissect compiled code, debug complex systems, and analyse malware or legacy software behaviour when the job calls for it.
-
----
-
-### Development
-
-![C++](https://img.shields.io/badge/-C++-4fa8ff?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-4fa8ff?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-4fa8ff?style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-4fa8ff?style=flat-square)
-
-### Security & Analysis
-
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-ff5c5c?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-ff5c5c?style=flat-square)
-![Vulnerability Analysis](https://img.shields.io/badge/-Vulnerability%20Analysis-ff5c5c?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-ff5c5c?style=flat-square)
+- 💻 **Software Engineer & Full-Stack Developer** passionate about crafting modern, high-performance web applications.
+- 🌐 **Portfolio**: Explore my projects and work at [youngpay.vercel.app](https://youngpay.vercel.app/)
+- 📬 **Contact**: Reach out anytime at [pnahimi@gmail.com](mailto:pnahimi@gmail.com)
+- ⚡ **Fun Fact**: Always experimenting with new web technologies, UI design, and modern frameworks.
 
 ---
 
-### `cat education.log`
+### 🛠️ Tech Stack & Skills
 
-**BSc, Computer Science with Cybersecurity** — University of Greenwich
-`2022 — 2025`
+#### Frontend & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### `cat experience.log`
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**InsurTech Software Engineer** — AXA Insurance Limited
-`March 2025 — Present`
-Built custom claims management software to streamline workflows for AXA claims technicians; automated data entry, reduced processing times, and improved accuracy for high-volume insurance claims.
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Software Quality Assurance Analyst** — M Group
-`August 2024 — January 2025`
-QA Engineer specialising in software quality and information security. Tested functionality, identified security vulnerabilities, and ensured releases were stable, secure, and compliant.
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+[![Young-Pay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Young-Pay&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Young-Pay)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Young-Pay&layout=compact&theme=dark&hide_border=true)](https://github.com/Young-Pay)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Young-Pay&theme=dark&hide_border=true)](https://github.com/Young-Pay)
+
+</div>
+
+---
+
+### 💬 Connect with Me
+
+- 🌐 **Website**: [youngpay.vercel.app](https://youngpay.vercel.app/)
+- 📧 **Email**: [pnahimi@gmail.com](mailto:pnahimi@gmail.com)
+- 🐙 **GitHub**: [@Young-Pay](https://github.com/Young-Pay)
 
 ---
 
 <div align="center">
-<sub>Status: <b>open to work</b> — reach out via the links above.</sub>
+  <sub>Generated with care for <b>Young-Pay</b></sub>
 </div>
-## Hi there 👋
-
-<!--
-**Young-Pay/Young-Pay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
