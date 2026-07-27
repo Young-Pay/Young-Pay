@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 💻 **Software Engineer & Full-Stack Developer** passionate about crafting modern, high-performance web applications.
-- 🌐 **Portfolio**: Explore my projects and work at [youngpay.vercel.app](https://youngpay.vercel.app/)
+- 🌐 **Website**: Explore my projects and work at [youngpay.vercel.app](https://youngpay.vercel.app/)
 - 📬 **Contact**: Reach out anytime at [pnahimi@gmail.com](mailto:pnahimi@gmail.com)
 - ⚡ **Fun Fact**: Always experimenting with new web technologies, UI design, and modern frameworks.
 
