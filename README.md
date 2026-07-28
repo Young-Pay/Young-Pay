@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-youngpay.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youngpay.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Young--Pay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Young-Pay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paiman_Nahimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paiman-nahimi-97984141b/)
 [![Email](https://img.shields.io/badge/Email-pnahimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnahimi@gmail.com)
 
@@ -30,14 +29,14 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 #### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
