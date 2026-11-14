@@ -14,8 +14,7 @@
 
 - 💻 **Software Engineer & Full-Stack Developer** passionate about crafting modern, high-performance web applications.
 - 🌐 **Website**: Explore my projects and work at [youngpay.vercel.app](https://youngpay.vercel.app/)
-- 💼 **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/paiman-nahimi-97984141b/)
-- 📬 **Contact**: Reach out anytime at [pnahimi@gmail.com](mailto:pnahimi@gmail.com)
+- 📬 **Contact**: Reach out anytime at [ambtukham@gmail.com](mailto:ambtukhami@gmail.com)
 - ⚡ **Fun Fact**: Always experimenting with new web technologies, UI design, and modern frameworks.
 
 ---
