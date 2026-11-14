@@ -1,4 +1,4 @@
-# Hi there, I'm Paiman (Young-Pay) 👋
+# Hi there, I'm Paiman  👋
 
 <div align="center">
 
