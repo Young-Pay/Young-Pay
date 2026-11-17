@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-youngpay.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youngpay.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-pnahimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambtukham@gmail.com)
 
 </div>
 
