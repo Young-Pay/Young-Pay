@@ -1,10 +1,9 @@
-# Hi there, I'm Paiman  👋
+# Hi there, I'm Pay  👋
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-youngpay.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youngpay.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paiman_Nahimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paiman-nahimi-97984141b/)
-[![Email](https://img.shields.io/badge/Email-pnahimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnahimi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pnahimi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambtukham@gmail.com)
 
 </div>
 
